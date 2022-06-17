@@ -3,6 +3,7 @@
 ## Requirements
 * Docker engine
 * docker-compose
+* make
 
 ## How to run
 * `make run`
